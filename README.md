@@ -18,8 +18,6 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=GRMiguelAngel)](https://github.com/ryo-ma/github-profile-trophy)
 <br>
-
-<div align='Center'>
   
 ![](https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif)
-</div>
+
