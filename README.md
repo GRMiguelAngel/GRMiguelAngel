@@ -5,3 +5,5 @@
 -🌱 I’m currently learning ...
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=walleeva2018)](https://github.com/ryo-ma/github-profile-trophy)
