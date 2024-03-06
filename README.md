@@ -1,6 +1,6 @@
 
 <!--**GRMiguelAngel/GRMiguelAngel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
+<img src="https://i.pinimg.com/originals/9d/ea/64/9dea6422afee150cbe2f65b5317285eb.gif">
 
 ### 🌱 I’m currently learning ...
 <a href="https://aprendepython.es">![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)</a>
