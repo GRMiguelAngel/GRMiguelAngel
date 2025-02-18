@@ -18,6 +18,14 @@
 
 ```yaml
 nombre: Miguel Ángel
+ubicación: Islas Canarias, España
+título: Desarrollo de Aplicaciones Web
+
+aprendiendo: [
+  typescript,
+  jquery,
+  vue,
+  ]
 ```
 ###
 
