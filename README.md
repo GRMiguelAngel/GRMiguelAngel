@@ -51,4 +51,3 @@ aprendiendo: ["typescript, jquery y vue"]
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:fbd4f4,100:fa85dc&reversal=true&section=footer"/>
 </div>
-###
