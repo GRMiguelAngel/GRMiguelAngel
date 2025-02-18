@@ -2,7 +2,7 @@
 <!--**GRMiguelAngel/GRMiguelAngel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?text=Hola!&animation=fadeIn&type=waving&color=0:fbd4f4,100:f783ac&height=180"/>
+<img src="https://capsule-render.vercel.app/api?text=Hola!&animation=fadeIn&type=waving&color=0:fbd4f4,100:f783ac&height=170"/>
 <img src="https://i.pinimg.com/originals/9d/ea/64/9dea6422afee150cbe2f65b5317285eb.gif">
 </div>
 
