@@ -43,12 +43,13 @@ aprendiendo: ["typescript, jquery y vue"]
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=grmiguelangel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true&section=footer"/>
+<img src="https://i.pinimg.com/originals/9d/ea/64/9dea6422afee150cbe2f65b5317285eb.gif">
+</div>
 ###
