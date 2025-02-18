@@ -49,7 +49,7 @@ aprendiendo: ["typescript, jquery y vue"]
 
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&color=0:fbd4f4,100:f783ac&reversal=true&section=footer"/>
 <img src="https://i.pinimg.com/originals/9d/ea/64/9dea6422afee150cbe2f65b5317285eb.gif">
 </div>
 ###
