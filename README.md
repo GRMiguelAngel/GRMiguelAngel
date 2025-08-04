@@ -13,9 +13,7 @@
 ```yaml
 nombre: Miguel Ángel
 ubicación: Islas Canarias, España
-titulación: Desarrollo de Aplicaciones Web
-
-aprendiendo: ["typescript, jquery y vue"]
+titulación: Técnico Superior de Desarrollo de Aplicaciones Web
 ```
 
 ###
@@ -30,6 +28,8 @@ aprendiendo: ["typescript, jquery y vue"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
