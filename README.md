@@ -13,7 +13,7 @@
 ```yaml
 nombre: Miguel Ángel
 ubicación: Islas Canarias, España
-titulación: Técnico Superior de Desarrollo de Aplicaciones Web
+titulación: Técnico Superior en Desarrollo de Aplicaciones Web
 ```
 
 ###
