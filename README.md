@@ -4,7 +4,7 @@
 
 
 ## 🎯 Enfocado en:
-Construir aplicaciones web funcionales y escalables
+Desarrollar aplicaciones web útiles, mantenibles y centradas en la experiencia del usuario.
 ## Stack Tecnológico
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="16px" alt="javascript logo"/> JavaScript
