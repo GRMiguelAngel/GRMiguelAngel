@@ -38,10 +38,5 @@ titulación: Técnico Superior en Desarrollo de Aplicaciones Web
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=grmiguelangel&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:fbd4f4,100:fa85dc&reversal=true&section=footer"/>
 </div>
