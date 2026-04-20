@@ -1,13 +1,11 @@
 <header align="center">
-<img src="https://capsule-render.vercel.app/api?text=Miguel%20%C3%81ngel&animation=fadeIn&type=waving&color=0:FF8380,100:FF3924&height=170"/>
+<img src="https://capsule-render.vercel.app/api?text=Miguel Ángel&animation=fadeIn&type=waving&color=0:FF8380,100:FF3924&height=170"/>
 </header>
 
-## Frontend / Web Developer
 
-
-### 🎯 Enfocado en:
+## 🎯 Enfocado en:
 Construir aplicaciones web funcionales y escalables
-### Stack Tecnológico
+## Stack Tecnológico
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="16px" alt="javascript logo"/> JavaScript
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="16px" alt="vue logo"/> Vue
@@ -18,15 +16,16 @@ Construir aplicaciones web funcionales y escalables
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="16px" alt="git logo"/> Git
 
 
-### 🚀 Proyectos destacados
+## 🚀 Proyectos destacados
 
 🔹 [TeachSwap](https://github.com/GRMiguelAngel/TeachSwap)
-Aplicación web de venta de cursos online
-**Tecnologías**: Vue, Django, Bootstrap
+
+* Aplicación web de venta de cursos online
+* **Tecnologías**: Vue, Django, Bootstrap
 
 🔹 [Cinefinity](https://github.com/GRMiguelAngel/Cinefinity)
-Aplicación web de compra de entradas de cine  
-**Tecnologías**: Django, React
+* Aplicación web de compra de entradas de cine  
+* **Tecnologías**: Django, React
 
 <footer align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF8380,100:FF3924&reversal=true&section=footer"/>
