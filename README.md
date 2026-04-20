@@ -1,42 +1,33 @@
+<header align="center">
+<img src="https://capsule-render.vercel.app/api?text=Miguel Ángel&animation=fadeIn&type=waving&color=0:FF8380,100:FF3924&height=170"/>
+</header>
 
-<!--**GRMiguelAngel/GRMiguelAngel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+## Frontend / Web Developer
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?text=Hola!&animation=fadeIn&type=waving&color=0:fbd4f4,100:f783ac&height=170"/>
-<img src="https://i.pinimg.com/originals/9d/ea/64/9dea6422afee150cbe2f65b5317285eb.gif">
-</div>
 
-###
+### 🎯 Enfocado en:
+Construir aplicaciones web funcionales y escalables
+### Stack Tecnológico
 
-<h2 align="left">👨‍💻  Sobre mí</h2>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="16px" alt="javascript logo"/> JavaScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="16px" alt="vue logo"/> Vue
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16px" alt="vue logo"/> React
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="16px" alt="bootstrap logo"> Bootstrap
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16px" alt="python logo"/> Python
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="16px" alt="django logo"/> Django
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="16px" alt="git logo"/> Git
 
-```yaml
-nombre: Miguel Ángel
-ubicación: Islas Canarias, España
-titulación: Técnico Superior en Desarrollo de Aplicaciones Web
-```
 
-###
+### 🚀 Proyectos destacados
 
-<h3 align="left">🛠 Tecnologías</h3>
+🔹 [TeachSwap](https://github.com/GRMiguelAngel/TeachSwap)
+Aplicación web de venta de cursos online
+**Tecnologías**: Vue, Django, Bootstrap
 
-###
+🔹 [Cinefinity](https://github.com/GRMiguelAngel/Cinefinity)
+Aplicación web de compra de entradas de cine  
+**Tecnologías**: Django, React
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:fbd4f4,100:fa85dc&reversal=true&section=footer"/>
-</div>
+<footer align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:FF8380,100:FF3924&reversal=true&section=footer"/>
+</footer>
