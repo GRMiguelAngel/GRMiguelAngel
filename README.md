@@ -1,5 +1,5 @@
 <header align="center">
-<img src="https://capsule-render.vercel.app/api?text=Miguel Ángel&animation=fadeIn&type=waving&color=0:FF8380,100:FF3924&height=170"/>
+<img src="https://capsule-render.vercel.app/api?text=Miguel%20%C3%81ngel&animation=fadeIn&type=waving&color=0:FF8380,100:FF3924&height=170"/>
 </header>
 
 ## Frontend / Web Developer
